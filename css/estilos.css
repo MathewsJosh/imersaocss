@@ -1,0 +1,32 @@
+body {
+    background-image: url("https://www.pixelstalk.net/wp-content/uploads/images3/Rain_Window_Background_HD.jpg");
+    background-size: auto auto;
+    font-family: Arial;
+    height: 100vh;
+  }
+  .menu {
+    background-color: white;
+  }
+  a {
+    color: teal;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  .menu li {
+    list-style: none;
+  }
+  .site-subtitle,
+  .site-title {
+    color: whitesmoke;
+    text-align: center;
+  }
+  .site-subtitle {
+    font-style: italic;
+  }
+  
